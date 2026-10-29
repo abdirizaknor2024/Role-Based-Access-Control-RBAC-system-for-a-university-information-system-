@@ -1,5 +1,5 @@
 
-DROP DATABASE IF EXISTS university_rbac;
+
 CREATE DATABASE university_rbac;
 USE university_rbac;
 
